@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Master\WorkSpace\ChungbukApp\app\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="D:\Master\WorkSpace\ChungbukApp\app\build\intermediates\pre-dexed\debug\jxl_24926106bac1166b1189e127e71e565a003c28e6.jar" />
+    </item>
+
+</items>
